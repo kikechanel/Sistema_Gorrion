@@ -14,7 +14,7 @@ $clientes = obtenerClientes();
             <i class="fa fa-plus" ></i>
             Agregar
         </a>
-        Clientes
+        Cliente
     </h1>
     <table class="table">
         <thead>
